@@ -1,0 +1,23 @@
+.container{
+    margin-top: 15px;
+}
+#days{
+    display: inline;
+}
+.addComment{
+    margin-top: 10px;
+}
+hr{
+    border: 1px solid #dee2e6;
+}
+.img-thumbnail img{
+    width: 100%;
+}
+hr{
+    border: 0.3px 400 grey;
+    width: 90%;
+}
+#delete{
+    display: inline;
+}
+
